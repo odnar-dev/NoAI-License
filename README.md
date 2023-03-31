@@ -1,7 +1,7 @@
 # No AI License
 
 ```
-NAI License
+NoAI License
 
 Copyright (c) <year> <copyright holders>
 
